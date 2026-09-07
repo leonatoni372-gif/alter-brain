@@ -14,7 +14,8 @@ TABLE WITHOUT ID
   choice(domain = "transportasi", "🚚 Transportasi", choice(domain = "coding", "🤖 Coding/AI",
   choice(domain = "sosial", "🧠 Sosial", choice(domain = "medical", "🏥 Medical",
   choice(domain = "economy", "💰 Ekonomi", choice(domain = "environmental", "🌱 Environmental",
-  choice(domain = "process-engineering", "⚙️ Process-Eng", "🧪 " + domain))))))))))))))))))) AS "Kelompok",
+  choice(domain = "process-engineering", "⚙️ Process-Eng",
+  choice(domain = "iot", "📡 IoT", "🧪 " + domain)))))))))))))))))))) AS "Kelompok",
   length(rows) AS "Notes",
   sum(map(rows, (r) => r.sitasi)) AS "Total sitasi"
 FROM "03-Riset/Literatur"

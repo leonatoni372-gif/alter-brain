@@ -18,25 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b41abfbe798b4db4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "70d949c255edf5dc",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -202,32 +183,32 @@
   },
   "active": "c84281ca0e4b8a50",
   "lastOpenFiles": [
-    "Core Ilmu.md",
-    "03-Riset/Literatur/transportasi - W2908162093 - Applications of Artificial Intelligence in Transport An Overview.md",
-    "03-Riset/Literatur/transportasi - W3214625971 - Climate change and COP26 Are digital technologies and information management part of the problem or the solution An edit.md",
-    "03-Riset/Literatur/transportasi - W3137004022 - Determination of Objective Weights Using a New Method Based on the Removal Effects of Criteria (MEREC).md",
-    "03-Riset/Literatur/transportasi - W3018507674 - A preliminary assessment of the impact of COVID-19 on environment – A case study of China.md",
-    "03-Riset/Literatur/transportasi - W3144404977 - Survey on 6G Frontiers Trends, Applications, Requirements, Technologies and Future Research.md",
-    "03-Riset/Literatur/transportasi - W2803750062 - Survey on Multi-Access Edge Computing for Internet of Things Realization.md",
-    "03-Riset/Literatur/transportasi - W2611350544 - Dissipation of stop-and-go waves via control of autonomous vehicles Field experiments.md",
-    "03-Riset/Literatur/transportasi - W2804520636 - Global patterns of current and future road infrastructure.md",
-    "03-Riset/Literatur/transportasi - W4307486628 - Understanding the potential applications of Artificial Intelligence in Agriculture Sector.md",
-    "03-Riset/Literatur/transportasi - W2890275795 - Powering the Future with Liquid Sunshine.md",
-    "03-Riset/Literatur/transportasi - W4220831070 - Digital Twin Technology Challenges and Applications A Comprehensive Review.md",
-    "03-Riset/Literatur/transportasi - W3173271464 - Digitalization to achieve sustainable development goals Steps towards a Smart Green Planet.md",
-    "03-Riset/Literatur/transportasi - W2804990926 - Introduction—Platforms and Infrastructures in the Digital Age.md",
-    "03-Riset/Literatur/transportasi - W1904504745 - Joint Optimization of Radio and Computational Resources for Multicell Mobile-Edge Computing.md",
-    "03-Riset/Literatur/transportasi - W2797277926 - Regional inequality in Europe evidence, theory and policy implications.md",
-    "03-Riset/Literatur/transportasi - W2792557859 - Optimization approaches for civil applications of unmanned aerial vehicles (UAVs) or aerial drones A survey.md",
-    "03-Riset/Literatur/transportasi - W3148921802 - A Comprehensive Review on NSGA-II for Multi-Objective Combinatorial Optimization Problems.md",
-    "03-Riset/Literatur/transportasi - W3089252064 - Artificial intelligence in supply chain management A systematic literature review.md",
-    "03-Riset/Literatur/transportasi - W2602956630 - Internet of Things Strategic Research Roadmap.md",
-    "03-Riset/Literatur/transportasi - W3201994217 - Hydrogen production, storage, utilisation and environmental impacts a review.md",
-    "03-Riset/Literatur/transportasi - W4299313888 - The Geography of Transport Systems.md",
-    "03-Riset/Literatur/transportasi - W2129862350 - Creative destruction or mere niche support Innovation policy mixes for sustainability transitions.md",
-    "03-Riset/Literatur/transportasi - W2531320996 - A survey on Internet of Things architectures.md",
-    "03-Riset/Literatur/transportasi - W3137024605 - A review of trends and drivers of greenhouse gas emissions by sector from 1990 to 2018.md",
-    "03-Riset/Literatur/transportasi - W2993853848 - Internet of Things is a revolutionary approach for future technology enhancement a review.md",
+    "03-Riset/Literatur/iot - W2468172470 - Roadmap on silicon photonics.md",
+    "03-Riset/Literatur/iot - W2573003069 - Wearable Sensors for Remote Health Monitoring.md",
+    "03-Riset/Literatur/iot - W2962814013 - Convergence of Edge Computing and Deep Learning A Comprehensive Survey.md",
+    "03-Riset/Literatur/iot - W2768475350 - A Survey on the Edge Computing for the Internet of Things.md",
+    "03-Riset/Literatur/iot - W2786070938 - Learning IoT in Edge Deep Learning for the Internet of Things with Edge Computing.md",
+    "03-Riset/Literatur/iot - W2414114959 - iFogSim A toolkit for modeling and simulation of resource management techniques in the Internet of Things, Edge and Fog .md",
+    "03-Riset/Literatur/iot - W2781583119 - A comparative study of LPWAN technologies for large-scale IoT deployment.md",
+    "03-Riset/Literatur/iot - W2990272218 - A review of social science on digital agriculture, smart farming and agriculture 4.0 New contributions and a future rese.md",
+    "03-Riset/Literatur/iot - W3013120860 - Towards a semantic Construction Digital Twin Directions for future research.md",
+    "03-Riset/Literatur/iot - W2964535757 - Internet-of-Things (IoT)-Based Smart Agriculture Toward Making the Fields Talk.md",
+    "03-Riset/Literatur/iot - W2771152181 - A Survey on 5G Networks for the Internet of Things Communication Technologies and Challenges.md",
+    "03-Riset/Literatur/iot - W2791987562 - Industry 4.0 – A Glimpse.md",
+    "03-Riset/Literatur/iot - W4323653529 - Technology Roadmap for Flexible Sensors.md",
+    "03-Riset/Literatur/iot - W3045086480 - 6G and Beyond The Future of Wireless Communications Systems.md",
+    "03-Riset/Literatur/iot - W2945357379 - Digital Twins and Cyber–Physical Systems toward Smart Manufacturing and Industry 4.0 Correlation and Comparison.md",
+    "03-Riset/Literatur/iot - W3089706104 - Satellite Communications in the New Space Era A Survey and Future Challenges.md",
+    "03-Riset/Literatur/iot - W2273675851 - Internet of Things in the 5G Era Enablers, Architecture, and Business Models.md",
+    "03-Riset/Literatur/iot - W2755214325 - A Review of the Roles of Digital Twin in CPS-based Production Systems.md",
+    "03-Riset/Literatur/iot - W3012041784 - Characterising the Digital Twin A systematic literature review.md",
+    "03-Riset/Literatur/iot - W3205172848 - Industry 4.0 and Industry 5.0—Inception, conception and perception.md",
+    "03-Riset/Literatur/iot - W2950865323 - Edge Intelligence Paving the Last Mile of Artificial Intelligence With Edge Computing.md",
+    "03-Riset/Literatur/iot - W3016632787 - Federated Learning With Differential Privacy Algorithms and Performance Analysis.md",
+    "03-Riset/Literatur/iot - W2767346351 - Intelligent Manufacturing in the Context of Industry 4.0 A Review.md",
+    "03-Riset/Literatur/iot - W2998506103 - Applications of machine learning to machine fault diagnosis A review and roadmap.md",
+    "03-Riset/Literatur/iot - W2968810373 - Wireless Communications Through Reconfigurable Intelligent Surfaces.md",
+    "03-Riset/Literatur/iot - W4293584584 - A Multi-Modal Distributed Real-Time IoT System for Urban Traffic Control (Invited Paper).md",
     "03-Riset/Literatur",
     "99-Templates",
     "03-Riset",

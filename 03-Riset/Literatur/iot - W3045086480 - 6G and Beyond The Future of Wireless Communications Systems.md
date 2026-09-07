@@ -1,0 +1,27 @@
+---
+tags: [literatur, iot]
+domain: iot
+tahun: 2020
+sitasi: 1404
+doi: 10.1109/access.2020.3010896
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# 6G and Beyond: The Future of Wireless Communications Systems
+
+- **Penulis:** Ian F. Akyildiz, A.C. Kak, Shuai Nie
+- **Jurnal:** IEEE Access
+- **Tahun:** 2020 | **Disitasi:** 1404x
+- **Link:** https://doi.org/10.1109/access.2020.3010896
+- **Konsep:** Computer science, Wireless, Telecommunications, Wireless network
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+6G and beyond will fulfill the requirements of a fully connected world and provide ubiquitous wireless connectivity for all. Transformative solutions are expected to drive the surge for accommodating a rapidly growing number of intelligent devices and services. Major technological breakthroughs to achieve connectivity goals within 6G include: (i) a network operating at the THz band with much wider spectrum resources, (ii) intelligent communication environments that enable a wireless propagation environment with active signal transmission and reception, (iii) pervasive artificial intelligence, (iv) large-scale network automation, (v) an all-spectrum reconfigurable front-end for dynamic spectrum access, (vi) ambient backscatter communications for energy savings, (vii) the Internet of Space Things enabled by CubeSats and UAVs, and (viii) cell-free massive MIMO communication networks. In this roadmap paper, use cases for these enabling techniques as well as recent advancements on related topics are highlighted, and open problems with possible solutions are discussed, followed by a development timeline outlining the worldwide efforts in the realization of 6G. Going beyond 6G, promising early-stage technologies such as the Internet of NanoThings, the Internet of BioNanoThings, and quantum communications, which are expected to have a far-reaching impact on wireless communications, have also been discussed at length in this paper.
+
+## Insight-ku
+-
+
+## Terkait
+-
