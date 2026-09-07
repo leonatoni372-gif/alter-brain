@@ -1,5 +1,7 @@
 ---
-tags: [profil, pribadi]
+tags:
+  - profil
+  - pribadi
 ---
 
 # 👤 Leonel Zalfa Athoni

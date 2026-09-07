@@ -16,6 +16,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7c7fc82222b2eebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ]
       }
@@ -79,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ccaca8133efa0ae3",
@@ -183,6 +198,27 @@
   },
   "active": "c84281ca0e4b8a50",
   "lastOpenFiles": [
+    "03-Riset/Simulasi/SIMULATED_Hasil.md",
+    "03-Riset/Simulasi/SIMULATED_kinetics.csv",
+    "03-Riset/Simulasi/SIMULATED_isotherm.csv",
+    "03-Riset/Simulasi",
+    "03-Riset/Manuskrip Filter Teh Hijau.md",
+    "Untitled.md",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "01-Daily/2026-09-07.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Core Ilmu.md",
+    "2026-09-05.md",
+    "Tentang Leonel.md",
+    "create a link.md",
+    "Home.md",
     "03-Riset/Literatur/iot - W2468172470 - Roadmap on silicon photonics.md",
     "03-Riset/Literatur/iot - W2573003069 - Wearable Sensors for Remote Health Monitoring.md",
     "03-Riset/Literatur/iot - W2962814013 - Convergence of Edge Computing and Deep Learning A Comprehensive Survey.md",
@@ -200,22 +236,11 @@
     "03-Riset/Literatur/iot - W2945357379 - Digital Twins and Cyber–Physical Systems toward Smart Manufacturing and Industry 4.0 Correlation and Comparison.md",
     "03-Riset/Literatur/iot - W3089706104 - Satellite Communications in the New Space Era A Survey and Future Challenges.md",
     "03-Riset/Literatur/iot - W2273675851 - Internet of Things in the 5G Era Enablers, Architecture, and Business Models.md",
-    "03-Riset/Literatur/iot - W2755214325 - A Review of the Roles of Digital Twin in CPS-based Production Systems.md",
-    "03-Riset/Literatur/iot - W3012041784 - Characterising the Digital Twin A systematic literature review.md",
-    "03-Riset/Literatur/iot - W3205172848 - Industry 4.0 and Industry 5.0—Inception, conception and perception.md",
-    "03-Riset/Literatur/iot - W2950865323 - Edge Intelligence Paving the Last Mile of Artificial Intelligence With Edge Computing.md",
-    "03-Riset/Literatur/iot - W3016632787 - Federated Learning With Differential Privacy Algorithms and Performance Analysis.md",
-    "03-Riset/Literatur/iot - W2767346351 - Intelligent Manufacturing in the Context of Industry 4.0 A Review.md",
-    "03-Riset/Literatur/iot - W2998506103 - Applications of machine learning to machine fault diagnosis A review and roadmap.md",
-    "03-Riset/Literatur/iot - W2968810373 - Wireless Communications Through Reconfigurable Intelligent Surfaces.md",
-    "03-Riset/Literatur/iot - W4293584584 - A Multi-Modal Distributed Real-Time IoT System for Urban Traffic Control (Invited Paper).md",
     "03-Riset/Literatur",
     "99-Templates",
     "03-Riset",
     "02-Kuliah",
     "01-Daily",
-    "00-Inbox",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }
