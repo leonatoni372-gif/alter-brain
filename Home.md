@@ -27,3 +27,11 @@ TABLE WITHOUT ID file.link AS "Topik", status AS "Status"
 FROM "03-Riset"
 SORT file.mtime DESC LIMIT 10
 ```
+
+## 💰 Keuangan terakhir
+```dataview
+TABLE WITHOUT ID file.link AS "Laporan", jam_wib AS "Jam", jumlah_baris AS "Baris"
+FROM "04-Keuangan"
+WHERE file.name != "Keuangan"
+SORT file.name DESC LIMIT 5
+```
