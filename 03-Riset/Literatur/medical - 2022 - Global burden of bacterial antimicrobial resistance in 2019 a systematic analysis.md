@@ -1,0 +1,25 @@
+---
+tags: [literatur, medical]
+domain: medical
+tahun: 2022
+sitasi: 16349
+doi: 10.1016/s0140-6736(21)02724-0
+status_baca: belum
+---
+
+# Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis
+
+- **Penulis:** Christopher J L Murray, Kevin S Ikuta, Fablina Sharara, Lucien R Swetschinski
+- **Jurnal:** The Lancet
+- **Tahun:** 2022 | **Disitasi:** 16349x
+- **Link:** https://doi.org/10.1016/s0140-6736(21)02724-0
+- **Konsep:** Medicine, Antibiotic resistance, Infectious disease (medical specialty), Drug resistance
+
+## Abstrak
+BACKGROUND: Antimicrobial resistance (AMR) poses a major threat to human health around the world. Previous publications have estimated the effect of AMR on incidence, deaths, hospital length of stay, and health-care costs for specific pathogen-drug combinations in select locations. To our knowledge, this study presents the most comprehensive estimates of AMR burden to date. METHODS: We estimated deaths and disability-adjusted life-years (DALYs) attributable to and associated with bacterial AMR for 23 pathogens and 88 pathogen-drug combinations in 204 countries and territories in 2019. We obtained data from systematic literature reviews, hospital systems, surveillance systems, and other sources, covering 471 million individual records or isolates and 7585 study-location-years. We used predictive statistical modelling to produce estimates of AMR burden for all locations, including for locations with no data. Our approach can be divided into five broad components: number of deaths where infection played a role, proportion of infectious deaths attributable to a given infectious syndrome, proportion of infectious syndrome deaths attributable to a given pathogen, the percentage of a given pathogen resistant to an antibiotic of interest, and the excess risk of death or duration of an infection associated with this resistance. Using these components, we estimated disease burden based on two counterfactuals: deaths attributable to AMR (based on an alternative scenario in which all drug-resistant infections were replaced by drug-susceptible infections), and deaths associated with AMR (based on an alternative scenario in which all drug-resistant infections were replaced by no infection). We generated 95% uncertainty intervals (UIs) for final estimates as the 25th and 975th ordered values across 1000 posterior draws, and models were cross-validated for out-of-sample predictive validity. We present final estimates aggregated to the global and regional level. FINDINGS: On the basis of our predictive statistical models, there were an estimated 4·95 million (3·62-6·57) deaths associated with bacterial AMR in 2019, including 1·27 million (95% UI 0·911-1·71) deaths attributable to bacterial AMR. At the regional level, we estimated the all-age death rate attributable to resistance to be highest in western sub-Saharan Africa, at 27·3 deaths per 100 000 (20·9-35·3), and lowest in Australasia, at 6·5 deaths (4·3-9·4) per 100 000. Lower respiratory infections accounted for more than 1·5 million deaths associated with resistance in 2019, making it the most burdensome infectious syndrome. The six leading pathogens for deaths associated with resistance (Escherichia coli, followed by Staphylococcus aureus, Klebsiella pneumoniae, Streptococcus pneumoniae, Acinetobacter baumannii, and Pseudomonas aeruginosa) were responsible for 929 000 (660 000-1 270 000) deaths attributable to AMR and 3·57 million (2·62-4·78) deaths associated with AMR in 2019. One pathogen-drug combination, meticillin-resistant S aureus, caused more than 100 000 deaths attributable to AMR in 2019, while six more each caused 50 000-100 000 deaths: multidrug-resistant excluding extensively drug-resistant tuberculosis, third-generation cephalosporin-resistant E coli, carbapenem-resistant A baumannii, fluoroquinolone-resistant E coli, carbapenem-resistant K pneumoniae, and third-generation cephalosporin-resistant K pneumoniae. INTERPRETATION: To our knowledge, this study provides the first comprehensive assessment of the global burden of AMR, as well as an evaluation of the availability of data. AMR is a leading cause of death around the world, with the highest burdens in low-resource settings. Understanding the burden of AMR and the leading pathogen-drug combinations contributing to it is crucial to making informed and location-specific policy decisions, particularly about infection prevention and control programmes, access to essential antibiotics, and research and development of new vaccines and antibiotics. There are serious data gaps in many low-income settings, emphasising the need to expand microbiology laboratory capacity and data collection systems to improve our understanding of this important human health threat. FUNDING: Bill & Melinda Gates Foundation, Wellcome Trust, and Department of Health and Social Care using UK aid funding managed by the Fleming Fund.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

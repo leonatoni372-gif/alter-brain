@@ -1,0 +1,25 @@
+---
+tags: [literatur, economy]
+domain: economy
+tahun: 2018
+sitasi: 2871
+doi: 10.1016/j.soilbio.2018.01.030
+status_baca: belum
+---
+
+# Soil quality – A critical review
+
+- **Penulis:** Else K. Bünemann, Giulia Bongiorno, Zhanguo Bai, Rachel Creamer
+- **Jurnal:** Soil Biology and Biochemistry
+- **Tahun:** 2018 | **Disitasi:** 2871x
+- **Link:** https://doi.org/10.1016/j.soilbio.2018.01.030
+- **Konsep:** Soil quality, Environmental resource management, Soil functions, Quality (philosophy)
+
+## Abstrak
+Sampling and analysis or visual examination of soil to assess its status and use potential is widely practiced from plot to national scales. However, the choice of relevant soil attributes and interpretation of measurements are not straightforward, because of the complexity and site-specificity of soils, legacy effects of previous land use, and trade-offs between ecosystem services. Here we review soil quality and related concepts, in terms of definition, assessment approaches, and indicator selection and interpretation. We identify the most frequently used soil quality indicators under agricultural land use. We find that explicit evaluation of soil quality with respect to specific soil threats, soil functions and ecosystem services has rarely been implemented, and few approaches provide clear interpretation schemes of measured indicator values. This limits their adoption by land managers as well as policy. We also consider novel indicators that address currently neglected though important soil properties and processes, and we list the crucial steps in the development of a soil quality assessment procedure that is scientifically sound and supports management and policy decisions that account for the multi-functionality of soil. This requires the involvement of the pertinent actors, stakeholders and end-users to a much larger degree than practiced to date.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

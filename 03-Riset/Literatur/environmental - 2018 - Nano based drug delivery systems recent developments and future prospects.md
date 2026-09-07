@@ -1,0 +1,25 @@
+---
+tags: [literatur, environmental]
+domain: environmental
+tahun: 2018
+sitasi: 6695
+doi: 10.1186/s12951-018-0392-8
+status_baca: belum
+---
+
+# Nano based drug delivery systems: recent developments and future prospects
+
+- **Penulis:** Jayanta Kumar Patra, Gitishree Das, Leonardo Fernandes Fraceto, Estefânia Vangelie Ramos Campos
+- **Jurnal:** Journal of Nanobiotechnology
+- **Tahun:** 2018 | **Disitasi:** 6695x
+- **Link:** https://doi.org/10.1186/s12951-018-0392-8
+- **Konsep:** Nanomedicine, Drug delivery, Nanotechnology, Medicine
+
+## Abstrak
+Nanomedicine and nano delivery systems are a relatively new but rapidly developing science where materials in the nanoscale range are employed to serve as means of diagnostic tools or to deliver therapeutic agents to specific targeted sites in a controlled manner. Nanotechnology offers multiple benefits in treating chronic human diseases by site-specific, and target-oriented delivery of precise medicines. Recently, there are a number of outstanding applications of the nanomedicine (chemotherapeutic agents, biological agents, immunotherapeutic agents etc.) in the treatment of various diseases. The current review, presents an updated summary of recent advances in the field of nanomedicines and nano based drug delivery systems through comprehensive scrutiny of the discovery and application of nanomaterials in improving both the efficacy of novel and old drugs (e.g., natural products) and selective diagnosis through disease marker molecules. The opportunities and challenges of nanomedicines in drug delivery from synthetic/natural sources to their clinical applications are also discussed. In addition, we have included information regarding the trends and perspectives in nanomedicine area.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-
