@@ -1,0 +1,27 @@
+---
+tags: [literatur, bencana]
+domain: bencana
+tahun: 2017
+sitasi: 783
+doi: 10.1073/pnas.1617464114
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Adapt to more wildfire in western North American forests as climate changes
+
+- **Penulis:** Tania Schoennagel, Jennifer K. Balch, Hannah Brenkert–Smith, Philip E. Dennison
+- **Jurnal:** Proceedings of the National Academy of Sciences
+- **Tahun:** 2017 | **Disitasi:** 783x
+- **Link:** https://doi.org/10.1073/pnas.1617464114
+- **Konsep:** Climate change, Ecosystem, Vulnerability (computing), Environmental resource management
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Wildfires across western North America have increased in number and size over the past three decades, and this trend will continue in response to further warming. As a consequence, the wildland–urban interface is projected to experience substantially higher risk of climate-driven fires in the coming decades. Although many plants, animals, and ecosystem services benefit from fire, it is unknown how ecosystems will respond to increased burning and warming. Policy and management have focused primarily on specified resilience approaches aimed at resistance to wildfire and restoration of areas burned by wildfire through fire suppression and fuels management. These strategies are inadequate to address a new era of western wildfires. In contrast, policies that promote adaptive resilience to wildfire, by which people and ecosystems adjust and reorganize in response to changing fire regimes to reduce future vulnerability, are needed. Key aspects of an adaptive resilience approach are ( i ) recognizing that fuels reduction cannot alter regional wildfire trends; ( ii ) targeting fuels reduction to increase adaptation by some ecosystems and residential communities to more frequent fire; ( iii ) actively managing more wild and prescribed fires with a range of severities; and ( iv ) incentivizing and planning residential development to withstand inevitable wildfire. These strategies represent a shift in policy and management from restoring ecosystems based on historical baselines to adapting to changing fire regimes and from unsustainable defense of the wildland–urban interface to developing fire-adapted communities. We propose an approach that accepts wildfire as an inevitable catalyst of change and that promotes adaptive responses by ecosystems and residential communities to more warming and wildfire.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

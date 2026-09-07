@@ -1,0 +1,27 @@
+---
+tags: [literatur, arsitektur]
+domain: arsitektur
+tahun: 2023
+sitasi: 1754
+doi: 10.37074/jalt.2023.6.1.9
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?
+
+- **Penulis:** Jürgen Rudolph, Samson Tan, Shannon Tan
+- **Jurnal:** Journal of Applied Learning & Teaching
+- **Tahun:** 2023 | **Disitasi:** 1754x
+- **Link:** https://doi.org/10.37074/jalt.2023.6.1.9
+- **Konsep:** Chatbot, Conversation, Relevance (law), Context (archaeology)
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+ChatGPT is the world’s most advanced chatbot thus far. Unlike other chatbots, it can create impressive prose within seconds, and it has created much hype and doomsday predictions when it comes to student assessment in higher education and a host of other matters. ChatGPT is a state-of-the-art language model (a variant of OpenAI’s Generative Pretrained Transformer (GPT) language model) designed to generate text that can be indistinguishable from text written by humans. It can engage in conversation with users in a seemingly natural and intuitive way. In this article, we briefly tell the story of OpenAI, the organisation behind ChatGPT. We highlight the fundamental change from a not-for-profit organisation to a commercial business model. In terms of our methods, we conducted an extensive literature review and experimented with this artificial intelligence (AI) software. Our literature review shows our review to be amongst the first peer-reviewed academic journal articles to explore ChatGPT and its relevance for higher education (especially assessment, learning and teaching). After a description of ChatGPT’s functionality and a summary of its strengths and limitations, we focus on the technology’s implications for higher education and discuss what is the future of learning, teaching and assessment in higher education in the context of AI chatbots such as ChatGPT. We position ChatGPT in the context of current Artificial Intelligence in Education (AIEd) research, discuss student-facing, teacher-facing and system-facing applications, and analyse opportunities and threats. We conclude the article with recommendations for students, teachers and higher education institutions. Many of them focus on assessment.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

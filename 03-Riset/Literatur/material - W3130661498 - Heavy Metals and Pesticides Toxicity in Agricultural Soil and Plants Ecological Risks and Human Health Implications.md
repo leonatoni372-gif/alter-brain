@@ -1,0 +1,27 @@
+---
+tags: [literatur, material]
+domain: material
+tahun: 2021
+sitasi: 2317
+doi: 10.3390/toxics9030042
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Heavy Metals and Pesticides Toxicity in Agricultural Soil and Plants: Ecological Risks and Human Health Implications
+
+- **Penulis:** Ahmed Alengebawy, Sara Taha Abdelkhalek, Sundas Rana Qureshi, Man‐Qun Wang
+- **Jurnal:** Toxics
+- **Tahun:** 2021 | **Disitasi:** 2317x
+- **Link:** https://doi.org/10.3390/toxics9030042
+- **Konsep:** Pesticide, Bioaccumulation, Environmental chemistry, Human health
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Environmental problems have always received immense attention from scientists. Toxicants pollution is a critical environmental concern that has posed serious threats to human health and agricultural production. Heavy metals and pesticides are top of the list of environmental toxicants endangering nature. This review focuses on the toxic effect of heavy metals (cadmium (Cd), lead (Pb), copper (Cu), and zinc (Zn)) and pesticides (insecticides, herbicides, and fungicides) adversely influencing the agricultural ecosystem (plant and soil) and human health. Furthermore, heavy metals accumulation and pesticide residues in soils and plants have been discussed in detail. In addition, the characteristics of contaminated soil and plant physiological parameters have been reviewed. Moreover, human diseases caused by exposure to heavy metals and pesticides were also reported. The bioaccumulation, mechanism of action, and transmission pathways of both heavy metals and pesticides are emphasized. In addition, the bioavailability in soil and plant uptake of these contaminants has also been considered. Meanwhile, the synergistic and antagonistic interactions between heavy metals and pesticides and their combined toxic effects have been discussed. Previous relevant studies are included to cover all aspects of this review. The information in this review provides deep insights into the understanding of environmental toxicants and their hazardous effects.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

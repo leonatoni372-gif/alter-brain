@@ -1,0 +1,27 @@
+---
+tags: [literatur, arsitektur]
+domain: arsitektur
+tahun: 2022
+sitasi: 1827
+doi: 10.1109/access.2021.3140175
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# A Metaverse: Taxonomy, Components, Applications, and Open Challenges
+
+- **Penulis:** Sangmin Park, Young‐Gab Kim
+- **Jurnal:** IEEE Access
+- **Tahun:** 2022 | **Disitasi:** 1827x
+- **Link:** https://doi.org/10.1109/access.2021.3140175
+- **Konsep:** Computer science, Taxonomy (biology), Metaverse, Data science
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation models, Metaverse is being strengthened with various factors, from mobile-based always-on access to connectivity with reality using virtual currency. The integration of enhanced social activities and neural-net methods requires a new definition of Metaverse suitable for the present, different from the previous Metaverse. This paper divides the concepts and essential techniques necessary for realizing the Metaverse into three components (i.e., hardware, software, and contents) and three approaches (i.e., user interaction, implementation, and application) rather than marketing or hardware approach to conduct a comprehensive analysis. Furthermore, we describe essential methods based on three components and techniques to Metaverse’s representative Ready Player One, Roblox, and Facebook research in the domain of films, games, and studies. Finally, we summarize the limitations and directions for implementing the immersive Metaverse as social influences, constraints, and open challenges.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

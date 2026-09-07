@@ -1,0 +1,27 @@
+---
+tags: [literatur, air]
+domain: air
+tahun: 2021
+sitasi: 5241
+doi: 10.7717/peerj-cs.623
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# The coefficient of determination R-squared is more informative than SMAPE, MAE, MAPE, MSE and RMSE in regression analysis evaluation
+
+- **Penulis:** Davide Chicco, Matthijs J. Warrens, Giuseppe Jurman
+- **Jurnal:** PeerJ Computer Science
+- **Tahun:** 2021 | **Disitasi:** 5241x
+- **Link:** https://doi.org/10.7717/peerj-cs.623
+- **Konsep:** Mean squared error, Statistics, Mathematics, Linear regression
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Regression analysis makes up a large part of supervised machine learning, and consists of the prediction of a continuous independent target from a set of other predictor variables. The difference between binary classification and regression is in the target range: in binary classification, the target can have only two values (usually encoded as 0 and 1), while in regression the target can have multiple values. Even if regression analysis has been employed in a huge number of machine learning studies, no consensus has been reached on a single, unified, standard metric to assess the results of the regression itself. Many studies employ the mean square error (MSE) and its rooted variant (RMSE), or the mean absolute error (MAE) and its percentage variant (MAPE). Although useful, these rates share a common drawback: since their values can range between zero and +infinity, a single value of them does not say much about the performance of the regression with respect to the distribution of the ground truth elements. In this study, we focus on two rates that actually generate a high score only if the majority of the elements of a ground truth group has been correctly predicted: the coefficient of determination (also known as R -squared or R 2 ) and the symmetric mean absolute percentage error (SMAPE). After showing their mathematical properties, we report a comparison between R 2 and SMAPE in several use cases and in two real medical scenarios. Our results demonstrate that the coefficient of determination ( R -squared) is more informative and truthful than SMAPE, and does not have the interpretability limitations of MSE, RMSE, MAE and MAPE. We therefore suggest the usage of R -squared as standard metric to evaluate regression analyses in any scientific domain.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

@@ -1,0 +1,27 @@
+---
+tags: [literatur, arsitektur]
+domain: arsitektur
+tahun: 2021
+sitasi: 1827
+doi: 10.12688/f1000research.29032.2
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Sustainable data analysis with Snakemake
+
+- **Penulis:** Felix Mölder, Kim Philipp Jablonski, Brice Letcher, Michael B. Hall
+- **Jurnal:** F1000Research
+- **Tahun:** 2021 | **Disitasi:** 1827x
+- **Link:** https://doi.org/10.12688/f1000research.29032.2
+- **Konsep:** Scripting language, Workflow, Computer science, Raw data
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Data analysis often entails a multitude of heterogeneous steps, from the application of various command line tools to the usage of scripting languages like R or Python for the generation of plots and tables. It is widely recognized that data analyses should ideally be conducted in a reproducible way. Reproducibility enables technical validation and regeneration of results on the original or even new data. However, reproducibility alone is by no means sufficient to deliver an analysis that is of lasting impact (i.e., sustainable) for the field, or even just one research group. We postulate that it is equally important to ensure adaptability and transparency. The former describes the ability to modify the analysis to answer extended or slightly different research questions. The latter describes the ability to understand the analysis in order to judge whether it is not only technically, but methodologically valid. Here, we analyze the properties needed for data analysis to become reproducible, adaptable, and transparent. We show how the popular workflow management system Snakemake can be used to guarantee this, and how it enables an ergonomic, combined, unified representation of all steps involved in data analysis, ranging from raw data processing, to quality control and fine-grained, interactive exploration and plotting of final results.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

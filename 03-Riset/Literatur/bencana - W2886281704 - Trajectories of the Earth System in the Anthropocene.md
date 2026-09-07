@@ -1,0 +1,27 @@
+---
+tags: [literatur, bencana]
+domain: bencana
+tahun: 2018
+sitasi: 3137
+doi: 10.1073/pnas.1810141115
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Trajectories of the Earth System in the Anthropocene
+
+- **Penulis:** Will Steffen, Johan Rockström, Katherine Richardson, Timothy M. Lenton
+- **Jurnal:** Proceedings of the National Academy of Sciences
+- **Tahun:** 2018 | **Disitasi:** 3137x
+- **Link:** https://doi.org/10.1073/pnas.1810141115
+- **Konsep:** Anthropocene, Earth (classical element), Astrobiology, Earth system science
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+We explore the risk that self-reinforcing feedbacks could push the Earth System toward a planetary threshold that, if crossed, could prevent stabilization of the climate at intermediate temperature rises and cause continued warming on a "Hothouse Earth" pathway even as human emissions are reduced. Crossing the threshold would lead to a much higher global average temperature than any interglacial in the past 1.2 million years and to sea levels significantly higher than at any time in the Holocene. We examine the evidence that such a threshold might exist and where it might be. If the threshold is crossed, the resulting trajectory would likely cause serious disruptions to ecosystems, society, and economies. Collective human action is required to steer the Earth System away from a potential threshold and stabilize it in a habitable interglacial-like state. Such action entails stewardship of the entire Earth System-biosphere, climate, and societies-and could include decarbonization of the global economy, enhancement of biosphere carbon sinks, behavioral changes, technological innovations, new governance arrangements, and transformed social values.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

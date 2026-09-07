@@ -1,0 +1,27 @@
+---
+tags: [literatur, arsitektur]
+domain: arsitektur
+tahun: 2020
+sitasi: 3359
+doi: 10.1109/jsac.2020.3007211
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Smart Radio Environments Empowered by Reconfigurable Intelligent Surfaces: How it Works, State of Research, and Road Ahead
+
+- **Penulis:** Marco Di Renzo, Alessio Zappone, Mérouane Debbah, Mohamed‐Slim Alouini
+- **Jurnal:** Aaltodoc (Aalto University)
+- **Tahun:** 2020 | **Disitasi:** 3359x
+- **Link:** https://arxiv.org/abs/2004.09352
+- **Konsep:** Computer science, Wireless, Metamaterial, Telecommunications
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Reconfigurable intelligent surfaces (RISs) are an emerging transmission technology for application to wireless communications. RISs can be realized in different ways, which include (i) large arrays of inexpensive antennas that are usually spaced half of the wavelength apart; and (ii) metamaterial-based planar or conformal large surfaces whose scattering elements have sizes and inter-distances much smaller than the wavelength. Compared with other transmission technologies, e.g., phased arrays, multi-antenna transmitters, and relays, RISs require the largest number of scattering elements, but each of them needs to be backed by the fewest and least costly components. Also, no power amplifiers are usually needed. For these reasons, RISs constitute a promising software-defined architecture that can be realized at reduced cost, size, weight, and power (C-SWaP design), and are regarded as an enabling technology for realizing the emerging concept of smart radio environments (SREs). In this paper, we (i) introduce the emerging research field of RIS-empowered SREs; (ii) overview the most suitable applications of RISs in wireless networks; (iii) present an electromagnetic-based communication-theoretic framework for analyzing and optimizing metamaterial-based RISs; (iv) provide a comprehensive overview of the current state of research; and (v) discuss the most important research issues to tackle. Owing to the interdisciplinary essence of RIS-empowered SREs, finally, we put forth the need of reconciling and reuniting C. E. Shannon’s mathematical theory of communication with G. Green’s and J. C. Maxwell’s mathematical theories of electromagnetism for appropriately modeling, analyzing, optimizing, and deploying future wireless networks empowered by RISs.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

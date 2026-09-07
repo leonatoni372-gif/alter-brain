@@ -1,0 +1,27 @@
+---
+tags: [literatur, air]
+domain: air
+tahun: 2015
+sitasi: 4878
+doi: 10.2147/clep.s91125
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# The Danish National Patient Registry: a review of content, data quality, and research potential
+
+- **Penulis:** Morten Schmidt, Sigrún Alba Jóhannesdóttir Schmidt, Jakob Lynge Sandegaard, Véra Ehrenstein
+- **Jurnal:** Clinical Epidemiology
+- **Tahun:** 2015 | **Disitasi:** 4878x
+- **Link:** https://doi.org/10.2147/clep.s91125
+- **Konsep:** Danish, Medicine, Patient registry, Quality (philosophy)
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+BACKGROUND: The Danish National Patient Registry (DNPR) is one of the world's oldest nationwide hospital registries and is used extensively for research. Many studies have validated algorithms for identifying health events in the DNPR, but the reports are fragmented and no overview exists. OBJECTIVES: To review the content, data quality, and research potential of the DNPR. METHODS: We examined the setting, history, aims, content, and classification systems of the DNPR. We searched PubMed and the Danish Medical Journal to create a bibliography of validation studies. We included also studies that were referenced in retrieved papers or known to us beforehand. Methodological considerations related to DNPR data were reviewed. RESULTS: During 1977-2012, the DNPR registered 8,085,603 persons, accounting for 7,268,857 inpatient, 5,953,405 outpatient, and 5,097,300 emergency department contacts. The DNPR provides nationwide longitudinal registration of detailed administrative and clinical data. It has recorded information on all patients discharged from Danish nonpsychiatric hospitals since 1977 and on psychiatric inpatients and emergency department and outpatient specialty clinic contacts since 1995. For each patient contact, one primary and optional secondary diagnoses are recorded according to the International Classification of Diseases. The DNPR provides a data source to identify diseases, examinations, certain in-hospital medical treatments, and surgical procedures. Long-term temporal trends in hospitalization and treatment rates can be studied. The positive predictive values of diseases and treatments vary widely (<15%-100%). The DNPR data are linkable at the patient level with data from other Danish administrative registries, clinical registries, randomized controlled trials, population surveys, and epidemiologic field studies - enabling researchers to reconstruct individual life and health trajectories for an entire population. CONCLUSION: The DNPR is a valuable tool for epidemiological research. However, both its strengths and limitations must be considered when interpreting research results, and continuous validation of its clinical data is essential.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

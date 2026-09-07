@@ -1,0 +1,27 @@
+---
+tags: [literatur, material]
+domain: material
+tahun: 2016
+sitasi: 3221
+doi: 10.3390/ijms17091534
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Silver Nanoparticles: Synthesis, Characterization, Properties, Applications, and Therapeutic Approaches
+
+- **Penulis:** Xifeng Zhang, Zhi-guo Liu, Wei Shen, Sangiliyandi Gurunathan
+- **Jurnal:** International Journal of Molecular Sciences
+- **Tahun:** 2016 | **Disitasi:** 3221x
+- **Link:** https://doi.org/10.3390/ijms17091534
+- **Konsep:** Nanotechnology, Nanomedicine, Silver nanoparticle, Cancer therapy
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Recent advances in nanoscience and nanotechnology radically changed the way we diagnose, treat, and prevent various diseases in all aspects of human life. Silver nanoparticles (AgNPs) are one of the most vital and fascinating nanomaterials among several metallic nanoparticles that are involved in biomedical applications. AgNPs play an important role in nanoscience and nanotechnology, particularly in nanomedicine. Although several noble metals have been used for various purposes, AgNPs have been focused on potential applications in cancer diagnosis and therapy. In this review, we discuss the synthesis of AgNPs using physical, chemical, and biological methods. We also discuss the properties of AgNPs and methods for their characterization. More importantly, we extensively discuss the multifunctional bio-applications of AgNPs; for example, as antibacterial, antifungal, antiviral, anti-inflammatory, anti-angiogenic, and anti-cancer agents, and the mechanism of the anti-cancer activity of AgNPs. In addition, we discuss therapeutic approaches and challenges for cancer therapy using AgNPs. Finally, we conclude by discussing the future perspective of AgNPs.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

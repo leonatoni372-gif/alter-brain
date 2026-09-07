@@ -1,0 +1,27 @@
+---
+tags: [literatur, biologi]
+domain: biologi
+tahun: 2018
+sitasi: 2052
+doi: 10.1126/science.aap8757
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Analysis of shared heritability in common disorders of the brain
+
+- **Penulis:** Verneri Anttila, Brendan Bulik‐Sullivan, Hilary K. Finucane, Raymond K. Walters
+- **Jurnal:** Science
+- **Tahun:** 2018 | **Disitasi:** 2052x
+- **Link:** https://doi.org/10.1126/science.aap8757
+- **Konsep:** Heritability, Genome-wide association study, Missing heritability problem, Etiology
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Disorders of the brain can exhibit considerable epidemiological comorbidity and often share symptoms, provoking debate about their etiologic overlap. We quantified the genetic sharing of 25 brain disorders from genome-wide association studies of 265,218 patients and 784,643 control participants and assessed their relationship to 17 phenotypes from 1,191,588 individuals. Psychiatric disorders share common variant risk, whereas neurological disorders appear more distinct from one another and from the psychiatric disorders. We also identified significant sharing between disorders and a number of brain phenotypes, including cognitive measures. Further, we conducted simulations to explore how statistical power, diagnostic misclassification, and phenotypic heterogeneity affect genetic correlations. These results highlight the importance of common genetic variation as a risk factor for brain disorders and the value of heritability-based methods in understanding their etiology.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

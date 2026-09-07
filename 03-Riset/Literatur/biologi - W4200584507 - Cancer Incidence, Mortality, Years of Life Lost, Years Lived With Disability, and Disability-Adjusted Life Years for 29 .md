@@ -1,0 +1,27 @@
+---
+tags: [literatur, biologi]
+domain: biologi
+tahun: 2021
+sitasi: 2083
+doi: 10.1001/jamaoncol.2021.6987
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life Years for 29 Cancer Groups From 2010 to 2019
+
+- **Penulis:** Jonathan Kocarnik, Kelly Compton, Frances Dean, Weijia Fu
+- **Jurnal:** JAMA Oncology
+- **Tahun:** 2021 | **Disitasi:** 2083x
+- **Link:** https://doi.org/10.1001/jamaoncol.2021.6987
+- **Konsep:** Medicine, Cancer, Incidence (geometry), Cancer incidence
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+IMPORTANCE: The Global Burden of Diseases, Injuries, and Risk Factors Study 2019 (GBD 2019) provided systematic estimates of incidence, morbidity, and mortality to inform local and international efforts toward reducing cancer burden. OBJECTIVE: To estimate cancer burden and trends globally for 204 countries and territories and by Sociodemographic Index (SDI) quintiles from 2010 to 2019. EVIDENCE REVIEW: The GBD 2019 estimation methods were used to describe cancer incidence, mortality, years lived with disability, years of life lost, and disability-adjusted life years (DALYs) in 2019 and over the past decade. Estimates are also provided by quintiles of the SDI, a composite measure of educational attainment, income per capita, and total fertility rate for those younger than 25 years. Estimates include 95% uncertainty intervals (UIs). FINDINGS: In 2019, there were an estimated 23.6 million (95% UI, 22.2-24.9 million) new cancer cases (17.2 million when excluding nonmelanoma skin cancer) and 10.0 million (95% UI, 9.36-10.6 million) cancer deaths globally, with an estimated 250 million (235-264 million) DALYs due to cancer. Since 2010, these represented a 26.3% (95% UI, 20.3%-32.3%) increase in new cases, a 20.9% (95% UI, 14.2%-27.6%) increase in deaths, and a 16.0% (95% UI, 9.3%-22.8%) increase in DALYs. Among 22 groups of diseases and injuries in the GBD 2019 study, cancer was second only to cardiovascular diseases for the number of deaths, years of life lost, and DALYs globally in 2019. Cancer burden differed across SDI quintiles. The proportion of years lived with disability that contributed to DALYs increased with SDI, ranging from 1.4% (1.1%-1.8%) in the low SDI quintile to 5.7% (4.2%-7.1%) in the high SDI quintile. While the high SDI quintile had the highest number of new cases in 2019, the middle SDI quintile had the highest number of cancer deaths and DALYs. From 2010 to 2019, the largest percentage increase in the numbers of cases and deaths occurred in the low and low-middle SDI quintiles. CONCLUSIONS AND RELEVANCE: The results of this systematic analysis suggest that the global burden of cancer is substantial and growing, with burden differing by SDI. These results provide comprehensive and comparable estimates that can potentially inform efforts toward equitable cancer control around the world.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

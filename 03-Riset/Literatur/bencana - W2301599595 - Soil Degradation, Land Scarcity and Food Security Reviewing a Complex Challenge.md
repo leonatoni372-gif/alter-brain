@@ -1,0 +1,27 @@
+---
+tags: [literatur, bencana]
+domain: bencana
+tahun: 2016
+sitasi: 810
+doi: 10.3390/su8030281
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Soil Degradation, Land Scarcity and Food Security: Reviewing a Complex Challenge
+
+- **Penulis:** Tiziano Gomiero
+- **Jurnal:** Sustainability
+- **Tahun:** 2016 | **Disitasi:** 810x
+- **Link:** https://doi.org/10.3390/su8030281
+- **Konsep:** Arable land, Land degradation, Soil governance, Soil retrogression and degradation
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Soil health, along with water supply, is the most valuable resource for humans, as human life depends on the soil’s generosity. Soil degradation, therefore, poses a threat to food security, as it reduces yield, forces farmers to use more inputs, and may eventually lead to soil abandonment. Unfortunately, the importance of preserving soil health appears to be overlooked by policy makers. In this paper, I first briefly introduce the present situation concerning agricultural production, natural resources, soil degradation, land use and the challenge ahead, to show how these issues are strictly interwoven. Then, I define soil degradation and present a review of its typologies and estimates at a global level. I discuss the importance of preserving soil capital, and its relationship to human civilization and food security. Trends concerning the availability of arable agricultural land, different scenarios, and their limitations, are analyzed and discussed. The possible relation between an increase in a country’s GNP, population and future availability of arable land is also analyzed, using the World Bank’s database. I argue that because of the many sources of uncertainty in the data, and the high risks at stake, a precautionary approach should be adopted when drawing scenarios. The paper ends with a discussion on the key role of preserving soil organic matter, and the need to adopt more sustainable agricultural practices. I also argue that both our relation with nature and natural resources and our lifestyle need to be reconsidered.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

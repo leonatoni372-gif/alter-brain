@@ -1,0 +1,27 @@
+---
+tags: [literatur, matematika]
+domain: matematika
+tahun: 2015
+sitasi: 88404
+doi: 10.18637/jss.v067.i01
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Fitting Linear Mixed-Effects Models Using lme4
+
+- **Penulis:** Douglas M. Bates, Martin Mächler, Benjamin M. Bolker, Steve Walker
+- **Jurnal:** Journal of Statistical Software
+- **Tahun:** 2015 | **Disitasi:** 88404x
+- **Link:** https://doi.org/10.18637/jss.v067.i01
+- **Konsep:** Restricted maximum likelihood, Deviance (statistics), Mixed model, Smoothing
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Maximum likelihood or restricted maximum likelihood (REML) estimates of the parameters in linear mixed-effects models can be determined using the lmer function in the lme4 package for R. As for most model-fitting functions in R, the model is described in an lmer call by a formula, in this case including both fixed- and random-effects terms. The formula and data together determine a numerical representation of the model from which the profiled deviance or the profiled REML criterion can be evaluated as a function of some of the model parameters. The appropriate criterion is optimized, using one of the constrained optimization functions in R, to provide the parameter estimates. We describe the structure of the model, the steps in evaluating the profiled deviance or REML criterion, and the structure of classes or types that represents such a model. Sufficient detail is included to allow specialization of these structures by users who wish to write functions to fit specialized linear mixed models, such as models incorporating pedigrees or smoothing splines, that are not easily expressible in the formula language used by lmer.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

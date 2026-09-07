@@ -1,0 +1,27 @@
+---
+tags: [literatur, arsitektur]
+domain: arsitektur
+tahun: 2018
+sitasi: 1930
+doi: 10.1002/adma.201707035
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Soft Robotic Grippers
+
+- **Penulis:** Jun Shintake, Vito Cacucciolo, Dario Floreano, Herbert Shea
+- **Jurnal:** Advanced Materials
+- **Tahun:** 2018 | **Disitasi:** 1930x
+- **Link:** https://doi.org/10.1002/adma.201707035
+- **Konsep:** Grippers, Soft robotics, Materials science, GRASP
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Advances in soft robotics, materials science, and stretchable electronics have enabled rapid progress in soft grippers. Here, a critical overview of soft robotic grippers is presented, covering different material sets, physical principles, and device architectures. Soft gripping can be categorized into three technologies, enabling grasping by: a) actuation, b) controlled stiffness, and c) controlled adhesion. A comprehensive review of each type is presented. Compared to rigid grippers, end-effectors fabricated from flexible and soft components can often grasp or manipulate a larger variety of objects. Such grippers are an example of morphological computation, where control complexity is greatly reduced by material softness and mechanical compliance. Advanced materials and soft components, in particular silicone elastomers, shape memory materials, and active polymers and gels, are increasingly investigated for the design of lighter, simpler, and more universal grippers, using the inherent functionality of the materials. Embedding stretchable distributed sensors in or on soft grippers greatly enhances the ways in which the grippers interact with objects. Challenges for soft grippers include miniaturization, robustness, speed, integration of sensing, and control. Improved materials, processing methods, and sensing play an important role in future research.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

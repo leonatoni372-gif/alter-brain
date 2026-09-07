@@ -1,0 +1,27 @@
+---
+tags: [literatur, air]
+domain: air
+tahun: 2021
+sitasi: 2335
+doi: 10.1038/s41575-021-00440-6
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# The International Scientific Association of Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of postbiotics
+
+- **Penulis:** Seppo Salminen, María Carmen Collado, Akihito Endo, Colin Hill
+- **Jurnal:** Nature Reviews Gastroenterology & Hepatology
+- **Tahun:** 2021 | **Disitasi:** 2335x
+- **Link:** https://doi.org/10.1038/s41575-021-00440-6
+- **Konsep:** Scope (computer science), CLARITY, Medicine, MEDLINE
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Abstract In 2019, the International Scientific Association for Probiotics and Prebiotics (ISAPP) convened a panel of experts specializing in nutrition, microbial physiology, gastroenterology, paediatrics, food science and microbiology to review the definition and scope of postbiotics. The term ‘postbiotics’ is increasingly found in the scientific literature and on commercial products, yet is inconsistently used and lacks a clear definition. The purpose of this panel was to consider the scientific, commercial and regulatory parameters encompassing this emerging term, propose a useful definition and thereby establish a foundation for future developments. The panel defined a postbiotic as a “preparation of inanimate microorganisms and/or their components that confers a health benefit on the host”. Effective postbiotics must contain inactivated microbial cells or cell components, with or without metabolites, that contribute to observed health benefits. The panel also discussed existing evidence of health-promoting effects of postbiotics, potential mechanisms of action, levels of evidence required to meet the stated definition, safety and implications for stakeholders. The panel determined that a definition of postbiotics is useful so that scientists, clinical triallists, industry, regulators and consumers have common ground for future activity in this area. A generally accepted definition will hopefully lead to regulatory clarity and promote innovation and the development of new postbiotic products.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

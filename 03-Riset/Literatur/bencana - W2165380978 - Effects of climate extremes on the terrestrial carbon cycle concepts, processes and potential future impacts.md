@@ -1,0 +1,27 @@
+---
+tags: [literatur, bencana]
+domain: bencana
+tahun: 2015
+sitasi: 1045
+doi: 10.1111/gcb.12916
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Effects of climate extremes on the terrestrial carbon cycle: concepts, processes and potential future impacts
+
+- **Penulis:** D. Frank, Markus Reichstein, Michael Bahn, Kirsten Thonicke
+- **Jurnal:** Global Change Biology
+- **Tahun:** 2015 | **Disitasi:** 1045x
+- **Link:** https://doi.org/10.1111/gcb.12916
+- **Konsep:** Environmental science, Carbon cycle, Climate change, Carbon fibers
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Extreme droughts, heat waves, frosts, precipitation, wind storms and other climate extremes may impact the structure, composition and functioning of terrestrial ecosystems, and thus carbon cycling and its feedbacks to the climate system. Yet, the interconnected avenues through which climate extremes drive ecological and physiological processes and alter the carbon balance are poorly understood. Here, we review the literature on carbon cycle relevant responses of ecosystems to extreme climatic events. Given that impacts of climate extremes are considered disturbances, we assume the respective general disturbance-induced mechanisms and processes to also operate in an extreme context. The paucity of well-defined studies currently renders a quantitative meta-analysis impossible, but permits us to develop a deductive framework for identifying the main mechanisms (and coupling thereof) through which climate extremes may act on the carbon cycle. We find that ecosystem responses can exceed the duration of the climate impacts via lagged effects on the carbon cycle. The expected regional impacts of future climate extremes will depend on changes in the probability and severity of their occurrence, on the compound effects and timing of different climate extremes, and on the vulnerability of each land-cover type modulated by management. Although processes and sensitivities differ among biomes, based on expert opinion, we expect forests to exhibit the largest net effect of extremes due to their large carbon pools and fluxes, potentially large indirect and lagged impacts, and long recovery time to regain previous stocks. At the global scale, we presume that droughts have the strongest and most widespread effects on terrestrial carbon cycling. Comparing impacts of climate extremes identified via remote sensing vs. ground-based observational case studies reveals that many regions in the (sub-)tropics are understudied. Hence, regional investigations are needed to allow a global upscaling of the impacts of climate extremes on global carbon-climate feedbacks.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

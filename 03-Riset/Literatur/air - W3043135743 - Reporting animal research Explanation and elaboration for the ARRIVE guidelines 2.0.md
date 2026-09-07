@@ -1,0 +1,27 @@
+---
+tags: [literatur, air]
+domain: air
+tahun: 2020
+sitasi: 2857
+doi: 10.1371/journal.pbio.3000411
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Reporting animal research: Explanation and elaboration for the ARRIVE guidelines 2.0
+
+- **Penulis:** Nathalie Percie du Sert, Amrita Ahluwalia, Sabina Alam, Marc T. Avey
+- **Jurnal:** PLoS Biology
+- **Tahun:** 2020 | **Disitasi:** 2857x
+- **Link:** https://doi.org/10.1371/journal.pbio.3000411
+- **Konsep:** Elaboration, Transparency (behavior), Process (computing), Reliability (semiconductor)
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Improving the reproducibility of biomedical research is a major challenge. Transparent and accurate reporting is vital to this process; it allows readers to assess the reliability of the findings and repeat or build upon the work of other researchers. The ARRIVE guidelines (Animal Research: Reporting In Vivo Experiments) were developed in 2010 to help authors and journals identify the minimum information necessary to report in publications describing in vivo experiments. Despite widespread endorsement by the scientific community, the impact of ARRIVE on the transparency of reporting in animal research publications has been limited. We have revised the ARRIVE guidelines to update them and facilitate their use in practice. The revised guidelines are published alongside this paper. This explanation and elaboration document was developed as part of the revision. It provides further information about each of the 21 items in ARRIVE 2.0, including the rationale and supporting evidence for their inclusion in the guidelines, elaboration of details to report, and examples of good reporting from the published literature. This document also covers advice and best practice in the design and conduct of animal studies to support researchers in improving standards from the start of the experimental design process through to publication.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

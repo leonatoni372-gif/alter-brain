@@ -1,0 +1,27 @@
+---
+tags: [literatur, amdal]
+domain: amdal
+tahun: 2020
+sitasi: 3553
+doi: 10.1113/ep088870
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research
+
+- **Penulis:** Nathalie Percie du Sert, Viki Hurst, Amrita Ahluwalia, Sabina Alam
+- **Jurnal:** Experimental Physiology
+- **Tahun:** 2020 | **Disitasi:** 3553x
+- **Link:** https://doi.org/10.1113/ep088870
+- **Konsep:** Rigour, Checklist, Transparency (behavior), Context (archaeology)
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Reproducible science requires transparent reporting. The ARRIVE guidelines (Animal Research: Reporting of In Vivo Experiments) were originally developed in 2010 to improve the reporting of animal research. They consist of a checklist of information to include in publications describing in vivo experiments to enable others to scrutinise the work adequately, evaluate its methodological rigour and reproduce the methods and results. Despite considerable levels of endorsement by funders and journals over the years, adherence to the guidelines has been inconsistent, and the anticipated improvements in the quality of reporting in animal research publications have not been achieved. Here, we introduce ARRIVE 2.0. The guidelines have been updated and information reorganised to facilitate their use in practice. We used a Delphi exercise to prioritise and divide the items of the guidelines into two sets, the 'ARRIVE Essential 10', which constitutes the minimum requirement, and the 'Recommended Set', which describes the research context. This division facilitates improved reporting of animal research by supporting a stepwise approach to implementation. This helps journal editors and reviewers verify that the most important items are being reported in manuscripts. We have also developed the accompanying Explanation and Elaboration document, which serves (1) to explain the rationale behind each item in the guidelines, (2) to clarify key concepts and (3) to provide illustrative examples. We aim, through these changes, to help ensure that researchers, reviewers and journal editors are better equipped to improve the rigour and transparency of the scientific process and thus reproducibility.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

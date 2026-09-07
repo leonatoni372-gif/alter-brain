@@ -1,0 +1,27 @@
+---
+tags: [literatur, material]
+domain: material
+tahun: 2017
+sitasi: 2124
+doi: 10.1016/j.mattod.2017.07.001
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# Additive manufacturing: scientific and technological challenges, market uptake and opportunities
+
+- **Penulis:** Syed A. M. Tofail, Elias P. Koumoulos, Amit Bandyopadhyay, Susmita Bose
+- **Jurnal:** Materials Today
+- **Tahun:** 2017 | **Disitasi:** 2124x
+- **Link:** https://doi.org/10.1016/j.mattod.2017.07.001
+- **Konsep:** Manufacturing engineering, Machining, Computer science, Process (computing)
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Additive manufacturing (AM) is fundamentally different from traditional formative or subtractive manufacturing in that it is the closest to the ‘bottom up’ manufacturing where a structure can be built into its designed shape using a ‘layer-by-layer’ approach rather than casting or forming by technologies such as forging or machining. AM is versatile, flexible, highly customizable and, as such, can suite most sectors of industrial production. Materials to make these parts/objects can be of a widely varying type. These include metallic, ceramic and polymeric materials along with combinations in the form of composites, hybrid, or functionally graded materials (FGMs). The challenge remains, however, to transfer this ‘making’ shapes and structures into obtaining objects that are functional. A great deal of work is needed in AM in addressing the challenges related to its two key enabling technologies namely ‘materials’ and ‘metrology’ to achieve this functionality in a predictive and reproductive ways. The good news is that there is a significant interest in industry for taking up AM as one of the main production engineering route. Additive Manufacturing, in our opinion, is definitely at the cross-road from where this new, much-hyped but somewhat unproven manufacturing process must move towards a technology that can demonstrate the ability to produce real, innovative, complex and robust products.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

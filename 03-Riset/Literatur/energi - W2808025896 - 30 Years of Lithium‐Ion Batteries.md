@@ -1,0 +1,27 @@
+---
+tags: [literatur, energi]
+domain: energi
+tahun: 2018
+sitasi: 6058
+doi: 10.1002/adma.201800561
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# 30 Years of Lithium‐Ion Batteries
+
+- **Penulis:** Matthew Li, Jun Lü, Zhongwei Chen, Khalil Amine
+- **Jurnal:** Advanced Materials
+- **Tahun:** 2018 | **Disitasi:** 6058x
+- **Link:** https://doi.org/10.1002/adma.201800561
+- **Konsep:** Materials science, Lithium (medication), Ion, Nanoarchitectures for lithium-ion batteries
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+Over the past 30 years, significant commercial and academic progress has been made on Li-based battery technologies. From the early Li-metal anode iterations to the current commercial Li-ion batteries (LIBs), the story of the Li-based battery is full of breakthroughs and back tracing steps. This review will discuss the main roles of material science in the development of LIBs. As LIB research progresses and the materials of interest change, different emphases on the different subdisciplines of material science are placed. Early works on LIBs focus more on solid state physics whereas near the end of the 20th century, researchers began to focus more on the morphological aspects (surface coating, porosity, size, and shape) of electrode materials. While it is easy to point out which specific cathode and anode materials are currently good candidates for the next-generation of batteries, it is difficult to explain exactly why those are chosen. In this review, for the reader a complete developmental story of LIB should be clearly drawn, along with an explanation of the reasons responsible for the various technological shifts. The review will end with a statement of caution for the current modern battery research along with a brief discussion on beyond lithium-ion battery chemistries.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-

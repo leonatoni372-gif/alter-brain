@@ -1,0 +1,27 @@
+---
+tags: [literatur, matematika]
+domain: matematika
+tahun: 2016
+sitasi: 11301
+doi: 10.7717/peerj.2584
+core: "[[Core Ilmu]]"
+status_baca: belum
+---
+
+# VSEARCH: a versatile open source tool for metagenomics
+
+- **Penulis:** Torbjørn Rognes, Tomáš Flouri, Ben Nichols, Christopher Quince
+- **Jurnal:** PeerJ
+- **Tahun:** 2016 | **Disitasi:** 11301x
+- **Link:** https://doi.org/10.7717/peerj.2584
+- **Konsep:** Computer science, Pairwise comparison, Source code, Metagenomics
+- **Core:** [[Core Ilmu]]
+
+## Abstrak
+BACKGROUND: VSEARCH is an open source and free of charge multithreaded 64-bit tool for processing and preparing metagenomics, genomics and population genomics nucleotide sequence data. It is designed as an alternative to the widely used USEARCH tool (Edgar, 2010) for which the source code is not publicly available, algorithm details are only rudimentarily described, and only a memory-confined 32-bit version is freely available for academic use. METHODS: When searching nucleotide sequences, VSEARCH uses a fast heuristic based on words shared by the query and target sequences in order to quickly identify similar sequences, a similar strategy is probably used in USEARCH. VSEARCH then performs optimal global sequence alignment of the query against potential target sequences, using full dynamic programming instead of the seed-and-extend heuristic used by USEARCH. Pairwise alignments are computed in parallel using vectorisation and multiple threads. RESULTS: ), dereplication (full length or prefix), pairwise alignment, reverse complementation, sorting, and subsampling. VSEARCH also includes commands for FASTQ file processing, i.e., format detection, filtering, read quality statistics, and merging of paired reads. Furthermore, VSEARCH extends functionality with several new commands and improvements, including shuffling, rereplication, masking of low-complexity sequences with the well-known DUST algorithm, a choice among different similarity definitions, and FASTQ file format conversion. VSEARCH is here shown to be more accurate than USEARCH when performing searching, clustering, chimera detection and subsampling, while on a par with USEARCH for paired-ends read merging. VSEARCH is slower than USEARCH when performing clustering and chimera detection, but significantly faster when performing paired-end reads merging and dereplication. VSEARCH is available at https://github.com/torognes/vsearch under either the BSD 2-clause license or the GNU General Public License version 3.0. DISCUSSION: VSEARCH has been shown to be a fast, accurate and full-fledged alternative to USEARCH. A free and open-source versatile tool for sequence analysis is now available to the metagenomics community.
+
+## 💡 Insight-ku
+-
+
+## 🔗 Terkait
+-
